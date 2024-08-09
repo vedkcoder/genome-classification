@@ -1,4 +1,4 @@
-# Genome Sequemce Classification in Tumor Patients using PCA
+# Genome Sequence Classification in Tumor Patients using PCA
 
 A Kmeans based classifier to plot 5 Tumor types and their distinctive gene features. PCA is used to isolate these characteristics.
 
